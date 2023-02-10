@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gx5AQOXlvneszQwTXuSvNL5bs3r9vR+KW3kvbnn2lys=",
+  "Source": "Mqtt-Rgb-Data-Sender",
+  "BasePath": "_content/Mqtt-Rgb-Data-Sender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
